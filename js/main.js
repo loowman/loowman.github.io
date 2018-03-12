@@ -92,6 +92,12 @@ render=setInterval(function(){
          if(N+30>p.x&p.x+20>N&p.y+20>B&B+30>p.y){  
                 clearInterval(render);
                cc.fillText("Game Over",width/2-100,height/2);
+               setTimeout(function(){
+                     if(confirm("是否重新玩游戏")){
+                               window.location.reload()
+               }
+               },1000)
+             
             
          }
          draw("rgb(187,255,255)",p.x-=15,p.y,20,20);
