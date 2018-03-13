@@ -1,0 +1,12 @@
+*.md
+*.yml
+CNAME
+.DS_Store
+Thumbs.db
+*.json
+*.log
+node_modules/
+.deploy*/
+themes/
+scaffolds/
+source/
