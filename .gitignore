@@ -1,3 +1,18 @@
+<<<<<<< HEAD
 *.md
 *.yml
 CNAME
+.DS_Store
+Thumbs.db
+*.json
+*.log
+node_modules/
+.deploy*/
+themes/
+scaffolds/
+source/
+=======
+*.md
+*.yml
+CNAME
+>>>>>>> 6e7e15483550be9dc9bc14fc8dd5db9f03b28501
