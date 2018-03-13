@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.md
 *.yml
 CNAME
@@ -10,3 +11,8 @@ node_modules/
 themes/
 scaffolds/
 source/
+=======
+*.md
+*.yml
+CNAME
+>>>>>>> 6e7e15483550be9dc9bc14fc8dd5db9f03b28501
